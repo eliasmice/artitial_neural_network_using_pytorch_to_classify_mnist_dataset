@@ -1,0 +1,14 @@
+{
+  "config": {
+    "conv_channels": [32,64,96],
+    "fc_units": [512,256],
+    "dropout_rate": 0.5791545562018217,
+    "use_batch_norm": "False",
+    "activation": "relu",
+    "learning_rate": 0.0006364783075482956,
+    "weight_decay": 1.1335485169688867e-05,
+    "optimizer_name":"adamw",
+    "batch_size": 128,
+    "epochs_search": 40
+  }
+}
